@@ -16,6 +16,6 @@ A basic spring boot API running on AWS Elastic Beanstalk, using MySQL RDS for th
   
    -> Gets all the cars in the DB
    
-  ###### GET to -> http://springbootrdsapi-env.eba-p4iu338r.us-east-1.elasticbeanstalk.com/1 
+  ###### GET to -> http://springbootrdsapi-env.eba-p4iu338r.us-east-1.elasticbeanstalk.com/car/1
   
    -> Gets the car where id = 1
